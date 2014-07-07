@@ -7,6 +7,8 @@ Solution to "Super-Quine" problem.
 Negative count means the reversed program.
 
 *Input*: A line contains an integer n.
+
 *Output*:The required string described above.
+
 *Score*:Score is the length of your code.
 
